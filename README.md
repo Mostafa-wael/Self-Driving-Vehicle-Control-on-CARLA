@@ -1,4 +1,4 @@
-# Lane-Keeping-Assist-on-CARLA
+# Self-Driving Vehicle Control on CARLA
 This is an assignment from Introduction to Self-Driving Cars course of Self-Driving Cars Specialization on Coursera.org.
 
 This assignment implements Lane Keeping Assist function by applying Stanley method for lateral control and PID controller for longitudinal control using Python on the Carla simulator.
